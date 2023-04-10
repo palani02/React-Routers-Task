@@ -1,0 +1,13 @@
+.container{
+    background-color: black;
+    color: white;
+     display: grid;
+    grid-template-columns: repeat(2,50%)
+}
+.title
+{
+    color: black;
+    text-align: center;
+    font-size: 100px;
+    background-color: white;
+}
