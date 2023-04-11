@@ -12,7 +12,7 @@ function App() {
       <br/>
       <Link to="/Calculator">Calculator</Link>
       <br/>
-      <Link to="/Cartoons">Axios</Link>
+      <Link to="/Cartoons">Cartoons</Link>
       </div>
     </div>
     <Routes>
