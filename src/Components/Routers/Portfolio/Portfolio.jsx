@@ -41,7 +41,7 @@ function Portfolio() {
     </tr>
     <tr>
     <td>Diploma</td>
-    <td>2017-2019</td>
+    <td>2018-2021</td>
     <td>Sitheshwarar Polytechnic College</td>
     <td>82.5%</td>
     </tr>
@@ -56,7 +56,7 @@ function Portfolio() {
     <div>
 
    
-    <div><h1>Language Known</h1><h3><ul>
+    <div clas><h1>Language Known</h1><h3><ul>
     <li>English</li>
     <li>Tamil</li>
    
