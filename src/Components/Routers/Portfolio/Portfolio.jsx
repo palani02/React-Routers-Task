@@ -19,7 +19,7 @@ function Portfolio() {
 //     </nav>
 // </header>
 
-<div><h3>This is the landing page .</h3>
+<div><h3>Portfolio .</h3>
     <div className='subject'>
     <h1>Palani Baba</h1>
     <h1>B.E(C.S.E)</h1>
