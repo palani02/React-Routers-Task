@@ -1,10 +1,11 @@
 import React from 'react'
-
+import './Portfolio.css';
 function Portfolio() {
   return (
-    <div>
-        <h1>This is PortFolio Page.</h1>
+    <div className='Container'>
+      <p>Portfolio Page</p>
     </div>
+
   )
 }
 
