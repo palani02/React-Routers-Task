@@ -1,9 +1,10 @@
+
 h1{
     text-align: center;
 }
 
 .container{
-    background-color: rgba(238, 252, 82, 0.904);
+    background-color: antiquewhite;
     height: 100vh;
 }
 .calcul
@@ -13,8 +14,8 @@ h1{
     justify-content: center;
     padding-top: 50px;
     text-align: center;
-    /* box-shadow: inset 5px 5px 12px black, */
-                    /* 5px 5px 12px black; */
+    box-shadow: inset 5px 5px 12px black,
+                    5px 5px 12px black;
 }
 
 button{
@@ -24,8 +25,8 @@ button{
     font-size: 15px;
     border-radius: 25px;
     margin:8px;
-    /* box-shadow: -3px -3px 12px black, */
-                /* 2px 2px 12px black; */
+    box-shadow: -3px -3px 12px black,
+                2px 2px 12px black;
 }
 input
 {
@@ -35,7 +36,7 @@ input
     grid-column: span 4;
     text-align: end;
     font-size: 30px;
-    /* box-shadow: -5px -5px 12px black; */
+    box-shadow: -5px -5px 12px black;
     border-radius: 40px;
     margin: 8px;
 }

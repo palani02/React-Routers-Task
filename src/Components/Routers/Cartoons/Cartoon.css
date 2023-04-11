@@ -1,13 +1,23 @@
 .container{
-    background-color: black;
+    background-color:black;
     color: white;
      display: grid;
-    grid-template-columns: repeat(2,50%)
+     margin: -20px;
+     font-size: 20px;
+    grid-template-columns: repeat(1,60%);
+    justify-content: center;
+     
 }
 .title
 {
     color: black;
     text-align: center;
-    font-size: 100px;
-    background-color: white;
+    font-size: 50px;
+    background-color:white;
+}
+.content{
+    border:2px solid white;
+    text-align: center;
+    border-radius: 30px;
+    background-color: black;
 }
