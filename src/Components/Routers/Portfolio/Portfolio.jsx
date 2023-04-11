@@ -55,17 +55,10 @@ function Portfolio() {
 </table></div>
     <div>
 
-    {/* <strong><h1>Interest</h1></strong>
-    <ul>
-     <h3><li> 
-      </li>
-      <li>Programming</li>
-      <li>Playing football, badminton</li>
-      </h3> 
-    </ul> */}
+   
     <div><h1>Language Known</h1><h3><ul>
-    <li>Tamil - Read,Write,Speak</li>
-    <li>English - Read,Write,Speak</li>
+    <li>English</li>
+    <li>Tamil</li>
    
 </ul></h3></div>
     </div>
